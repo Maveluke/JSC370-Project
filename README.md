@@ -6,6 +6,6 @@ This project addresses the question: **How do major streaming content releases o
 Specifically, we analyze:
 
 1. Whether stock prices show abnormal returns in the 3-day window following content releases
-2. If there are differences in market impact between TV shows and movies
-3. Whether Reddit engagement metrics correlate with stock price movements
-4. If certain content types or genres generate stronger market reactions than others
+2. Whether Reddit engagement metrics correlate with stock price movements
+3. Is the sentiment of Reddit comments about a movie (positive/negative) associated with upward/downward movement in stock price?
+4. Is there a lagged relationship between Reddit engagement and provider stock returns (e.g., 1-day, 3-day, 7-day lag)?
