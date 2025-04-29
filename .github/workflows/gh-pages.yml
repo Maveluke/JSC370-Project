@@ -11,7 +11,7 @@ on:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -58,3 +58,6 @@ jobs:
           publish_dir: mybook/_build/html
           # Name of the branch to push (GitHub Pages reads this by default)
           publish_branch: gh-pages
+          
+      - name: Disable Jekyll
+        run: touch mybook/_build/html/.nojekyll
