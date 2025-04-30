@@ -9,3 +9,5 @@ Specifically, we analyze:
 2. Whether Reddit engagement metrics correlate with stock price movements
 3. Is the sentiment of Reddit comments about a movie (positive/negative) associated with upward/downward movement in stock price?
 4. Is there a lagged relationship between Reddit engagement and provider stock returns (e.g., 1-day, 3-day, 7-day lag)?
+
+Check our [website](https://maveluke.github.io/JSC370-Project/) to see more!
