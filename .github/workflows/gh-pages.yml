@@ -39,11 +39,12 @@ jobs:
         with:
           python-version: '3.x'
 
-      # 3. Install Jupyter Book dependencies
+      # 3. Install dependencies
       - name: Install dependencies
         run: |
           pip install --upgrade pip
           pip install jupyter-book
+          pip install -r requirements.txt
 
       # 4. Build the book
       - name: Build the Jupyter Book site
