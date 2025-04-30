@@ -1,6 +1,6 @@
-# Welcome 
+# Welcome Page
 
-Check out the content pages bundled with this sample book to see more.
+Check out the content pages to see more.
 
 ```{tableofcontents}
 ```
